@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Facultad de Ciencias UNAM- Ciencias de la Computación 🔭 😄
-- Me gustan los retos y problemas de acertijos 
-- En mis tiempos libres me gusta jugar xbox o juegos de mesa con amigos (catan , ajedrez)
-- Me gusta la programación y el desarrollo de aplicaciones 
 
 
 
